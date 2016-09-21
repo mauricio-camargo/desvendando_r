@@ -1,2 +1,8 @@
-## TEstando
-Aqui o teste
+# Intalação do R e Rstudio
+# Primeiros passos no R
+# Medidas de tendência central e de posição 
+# Histogramas, boxplots, gráficos de barra e de dispersão
+# Introdução à inferência estatística
+# Teste de normalidade e heterocedasticidade # Teste-t
+# ANOVA e seus sabores
+# Regressão linear
